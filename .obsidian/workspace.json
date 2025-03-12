@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live voice-bot MVP/Realtime API with WebSockets.md",
+                "file": "Live voice-bot MVP/Function call on realtime API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Realtime API with WebSockets"
+              "title": "Function call on realtime API"
             }
           },
           {
@@ -184,8 +184,9 @@
   },
   "active": "f1fbb5c36e5b5cc7",
   "lastOpenFiles": [
-    "Live voice-bot MVP/Realtime API with WebRTC.md",
     "Live voice-bot MVP/Realtime API with WebSockets.md",
+    "Live voice-bot MVP/Function call on realtime API.md",
+    "Live voice-bot MVP/Realtime API with WebRTC.md",
     "Pasted image 20250310155505.png",
     "Live voice-bot MVP/API.md",
     "Live voice-bot MVP/OpenAI function calling (tools).md",

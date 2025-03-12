@@ -1,4 +1,3 @@
-
 [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) are a broadly supported API for realtime data transfer, and a great choice for connecting to the OpenAI Realtime API in ==server-to-server applications==. For browser and mobile clients, we recommend connecting via [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc). Follow this guide to connect to the Realtime API via WebSocket and start interacting with a Realtime model.
 
 ## Overview
@@ -240,7 +239,7 @@ def receive_messages(ws):
 **1. `audio_callback`: Handling Incoming Audio Data**
 
 - This is a **callback function** triggered whenever the microphone captures audio. 
-- ==with sd.InputStream(samplerate=RATE, channels=CHANNELS, dtype='int16', callback=audio_callback):==
+- ==with sd.InputStream(samplerate=RATE, channels=CHcatANNELS, dtype='int16', callback=audio_callback):==
 - **Parameters**:
     - `indata`: The audio input data.
     - `frames`: Number of frames in the audio buffer.
